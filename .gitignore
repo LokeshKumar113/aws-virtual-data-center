@@ -1,0 +1,10 @@
+# Terraform cache and state.
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# Local variable values.
+*.tfvars
+
+# Crash output.
+crash.log
